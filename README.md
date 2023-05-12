@@ -2,7 +2,7 @@ This file contains the writing style and other guidelines for content developers
 
 
 # Markdown Style Guide
-Refrer to the [best practices](https://www.markdownguide.org/basic-syntax/) for writing standard markdown content. In addition, follow the guidelines specific to Udacity's content development tool outlined below.
+Refer to the [best practices](https://www.markdownguide.org/basic-syntax/) for writing standard markdown content. In addition, follow the guidelines specific to Udacity's content development tool outlined below.
 
 ## Headings
 - Use heading elements to provide a hierarchical structure on a web page. Do not use headings for formatting purposes.
@@ -73,3 +73,4 @@ Udacity uses markdown for its content management platform. Therefore, use
 - Github for submitting markdown files and code files.
 - [Github gists](https://gist.github.com/) for submitting a code snippet.
 - Google docs and spreadsheets for anything that cannot fit into Github or Gists.
+- Do not host any artifact in a personal repository/account/workspace. Instead, ask the Udacity staff to host the artifacts in the Udacity's repositories/Google drive/any other Udacity owned account. 
