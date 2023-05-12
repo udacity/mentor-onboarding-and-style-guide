@@ -23,16 +23,16 @@ Refer to the [best practices](https://www.markdownguide.org/basic-syntax/) for w
 
 ## Capitalization
 - Capitalize the first word and all proper nouns in your writing. 
-- Avoid using *-ing* words in headings. Prefer to use action verbs. For example, use *Create a Manifest* instead of the *Creat***ing*** a Manifest*  heading. 
+- Avoid using *-ing* words in headings. Prefer to use action verbs. For example, use *Create a Manifest* (✅) instead of the *Creating a Manifest* (❌) heading. 
 - For H2 heading, use the [Title case](https://en.wikipedia.org/wiki/Title_case#Chicago_Manual_of_Style). See an example below 
 ```bash
 ## Authenticate with OAuth
 ```
-	- Always capitalize "major" words (nouns, pronouns, verbs, adjectives, adverbs, and some conjunctions).
-	- Lowercase the conjunctions *and, but, for, or*, and *nor*.
-	- Lowercase the articles the, *a*, and *an*.
-	- Lowercase prepositions.
-	- Lowercase the words *to* and *as*.
+  - Always capitalize "major" words (nouns, pronouns, verbs, adjectives, adverbs, and some conjunctions).
+  - Lowercase the conjunctions *and, but, for, or*, and *nor*.
+  - Lowercase the articles the, *a*, and *an*.
+  - Lowercase prepositions.
+  - Lowercase the words *to* and *as*.
 
 - For all headings except H1 and H2, use the [Sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case), and avoid using *-ing* words. 
 - For Acronyms, use the Title case while defining them in the first occurrence.
